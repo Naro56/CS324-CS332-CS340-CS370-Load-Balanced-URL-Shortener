@@ -1,7 +1,7 @@
 # CS324-CS332-CS340-CS370-Load-Balanced-URL-Shortener
 
 
-💻 After Restarting Your Machine:
+
 ✅ Step 1: Start Docker Desktop
 Open Docker Desktop and let it initialize.
 
